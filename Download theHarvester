@@ -1,0 +1,9 @@
+// installing theHarvester tool using Kali Linux
+
+theHarvester
+
+sudo apt-get theHarvester or  git clone https://github.com/laramies/theHarvester.git
+
+cd theHarvester
+
+sudo python ./theHarvester.py
